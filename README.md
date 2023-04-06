@@ -8,7 +8,7 @@ This tutorial outlines what to do are post installation of the open-source help 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/embed/3EPa4qw4P1k)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/3EPa4qw4P1k)
 
 <h2>Environments and Technologies Used</h2>
 
